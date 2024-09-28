@@ -1,0 +1,16 @@
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.Form1.resources
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.csproj.GenerateResource.cache
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.AssemblyInfoInputs.cache
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.AssemblyInfo.cs
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.csproj.CoreCompileInputs.cache
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\bin\Debug\net8.0-windows\KalkukatorWalut.exe
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\bin\Debug\net8.0-windows\KalkukatorWalut.deps.json
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\bin\Debug\net8.0-windows\KalkukatorWalut.runtimeconfig.json
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\bin\Debug\net8.0-windows\KalkukatorWalut.dll
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\bin\Debug\net8.0-windows\KalkukatorWalut.pdb
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.dll
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\refint\KalkukatorWalut.dll
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.pdb
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\KalkukatorWalut.genruntimeconfig.cache
+C:\Users\oem\source\repos\KalkukatorWalut\KalkukatorWalut\obj\Debug\net8.0-windows\ref\KalkukatorWalut.dll
